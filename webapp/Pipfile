@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.14.2"
+opencv-contrib-python = "==3.4.0.12"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
